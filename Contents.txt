@@ -1,0 +1,12 @@
+Contents
+Lab 1 (Simple Operations - Addition, Subtraction & Celcius to Farenheit)
+Lab 2 (Arithmetic Operations - Using Manual, Compound and Formula for Multiplication)
+Lab 3 (Conditional Statement - Using Select, Greater/Less Than, AND, Comparison, Timing)
+Lab 4
+	- Using flat sequence structure and while loop to achieve the same result as lab 3
+Lab 4(II)
+	- Using a case structure to make a manual operation
+Lab 4(III) 
+	- Using while Loop and case structure to achieve automatic operations (same as lab 4(III), just different method and automated)
+Lab 5 (Socket Programming)
+	- It shows how does the 2 applications (local host-same device) send messages (signals) to each other.
